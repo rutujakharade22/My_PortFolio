@@ -1,2 +1,2 @@
 print("Hello World")
-print("Welcome to my Portfolio")
+# This is a sample Python script.
